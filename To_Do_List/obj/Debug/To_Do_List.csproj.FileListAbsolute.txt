@@ -1,0 +1,13 @@
+D:\Applications\To_Do_List\To_Do_List\bin\Debug\To_Do_List.exe.config
+D:\Applications\To_Do_List\To_Do_List\bin\Debug\To_Do_List.exe
+D:\Applications\To_Do_List\To_Do_List\bin\Debug\To_Do_List.pdb
+D:\Applications\To_Do_List\To_Do_List\obj\Debug\To_Do_List.Create_Task_Canvas.resources
+D:\Applications\To_Do_List\To_Do_List\obj\Debug\To_Do_List.Form1.resources
+D:\Applications\To_Do_List\To_Do_List\obj\Debug\To_Do_List.Home_Panel_Canvas.resources
+D:\Applications\To_Do_List\To_Do_List\obj\Debug\To_Do_List.Properties.Resources.resources
+D:\Applications\To_Do_List\To_Do_List\obj\Debug\To_Do_List.Task_Panel.resources
+D:\Applications\To_Do_List\To_Do_List\obj\Debug\To_Do_List.csproj.GenerateResource.cache
+D:\Applications\To_Do_List\To_Do_List\obj\Debug\To_Do_List.exe
+D:\Applications\To_Do_List\To_Do_List\obj\Debug\To_Do_List.pdb
+D:\Applications\To_Do_List\To_Do_List\obj\Debug\To_Do_List.csprojAssemblyReference.cache
+D:\Applications\To_Do_List\To_Do_List\obj\Debug\To_Do_List.Edit_Form.resources
